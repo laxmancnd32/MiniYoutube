@@ -1,0 +1,28 @@
+
+.listDiv{
+    float: left;
+    font-size: 110%;
+    height: 130px;
+}
+.viewed{
+    width:250px;
+    padding-left: 5px;
+}
+h3{
+    padding-left: 40%;
+    font-size: 200%;
+    color:white;
+}
+iframe{
+    margin-left: 130px;
+    border-radius: 10%;
+}
+body
+{
+    background-image: url("../images/image.jpg");
+}
+ul{
+    color:white;
+    font-size: 150%;
+    /* background-color: SteelBlue; */
+}
